@@ -2,7 +2,9 @@
 
 # 1. 입력데이터 형식
 ```frame_identification.py```
+
 ```trn, dev, tst = dataio.load_framenet_data(language)``` (line 46)
+
 [
   [
     ['Your', 'contribution', 'to', 'Goodwill', 'will', 'mean', 'more', 'than', 'you', 'may', 'know', '.'], 
