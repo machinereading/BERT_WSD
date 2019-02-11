@@ -6,12 +6,19 @@
 ```trn, dev, tst = dataio.load_framenet_data(language)``` (line 46)
 
 [
+
   [
+  
     ['Your', 'contribution', 'to', 'Goodwill', 'will', 'mean', 'more', 'than', 'you', 'may', 'know', '.'], 
+    
     ['_', '_', '_', '_', '_', '_', '_', '_', '_', 'may.v', '_', '_'], 
+    
     ['_', '_', '_', '_', '_', '_', '_', '_', '_', 'Likelihood', '_', '_']
+    
   ],
+  
   ...
+  
 ]
 
 # 2. 추가 필요 데이터
